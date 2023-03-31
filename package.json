@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pinecone-database/pinecone": "file:../pinecone-node-sdk",
+    "@pinecone-database/pinecone": "^0.0.12",
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
